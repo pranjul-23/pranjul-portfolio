@@ -39,6 +39,12 @@ export const skills = {
     "Docker",
     "Nginx",
   ],
+  "AI & Developer Productivity": [
+    "GitHub Copilot",
+    "Google Gemini",
+    "Prompt Engineering for Code Generation",
+    "AI-Assisted Code Refactoring & Unit Testing",
+  ],
 };
 
 export const experiences = [
